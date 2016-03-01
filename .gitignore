@@ -1,0 +1,10 @@
+.vs/
+Debug/
+ipch/
+x64
+openglsam.sdf
+openglsam.sln
+openglsam/Debug/
+openglsam/x64
+openglsam/openglsam.vcxproj
+openglsam/openglsam.vcxproj.filters
