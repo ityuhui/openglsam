@@ -1,1 +1,1 @@
-# openglsam
+使用Visual Stdio 2015搭建Windows下的OpenGL开发环境
